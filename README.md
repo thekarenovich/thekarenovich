@@ -4,14 +4,14 @@
 
 #### Languages and Tools 
 [![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=03AD00)](https://github.com/thekarenovich)
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=FAFF00)
-![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&&logoColor=0038FF)
-![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&&logoColor=FF0000)
+[![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=FAFF00)](https://github.com/thekarenovich)
+[![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&&logoColor=0038FF)](https://github.com/thekarenovich)
+[![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=java&&logoColor=FF0000)](https://github.com/thekarenovich)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![sqlite](https://img.shields.io/badge/sqlite-090909?style=for-the-badge&logo=sqlite)
-![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&&logoColor=FF0000)
-![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=FA00FF)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)](https://github.com/thekarenovich)
+[![sqlite](https://img.shields.io/badge/sqlite-090909?style=for-the-badge&logo=sqlite)](https://github.com/thekarenovich)
+[![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&&logoColor=FF0000)](https://github.com/thekarenovich)
+[![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=FA00FF)](https://github.com/thekarenovich)
 
 #### Follow Me
 [![Telegram](https://img.shields.io/badge/TELEGRAM-090909?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/thekarenovich)
