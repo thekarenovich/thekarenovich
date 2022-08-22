@@ -1,6 +1,6 @@
 ## Hey! Erik Karenovich is with You 🖤
 ### I'm a software engineer and a beginner web designer
-![Header](https://github.com/thekarenovich/thekarenovich/blob/main/asserts/Karenovich.jpg)
+![Header](https://github.com/thekarenovich/thekarenovich/blob/main/asserts/222.jpg)
 
 ### Languages and Tools 
 [![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=03AD00)](https://github.com/thekarenovich)
