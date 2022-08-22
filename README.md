@@ -3,4 +3,6 @@
 
 #### Languages and Tools 
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=django)
+![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS)
+![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django)
