@@ -1,1 +1,1 @@
-![Header](https://github.com/thekarenovich/thekarenovich/blob/main/assets/Karenovich.jpg)
+![Header](https://github.com/thekarenovich/thekarenovich/blob/main/assets/karenovich1.jpg)
