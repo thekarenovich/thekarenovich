@@ -14,6 +14,6 @@
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=FA00FF)
 
 ### Follow Me
-![VK](https://img.shields.io/badge/VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=FFFFFF)
+![VK](https://img.shields.io/badge/VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=0F3BD6)
 ![Telegram](https://img.shields.io/badge/TELEGRAM-090909?style=for-the-badge&logo=telegram&logoColor=FFFFFF)
-![Instagram](https://img.shields.io/badge/INSTAGRAM-090909?style=for-the-badge&logo=instagram&logoColor=FFFFFF)
+![Instagram](https://img.shields.io/badge/INSTAGRAM-090909?style=for-the-badge&logo=instagram&logoColor=D20FD6)
