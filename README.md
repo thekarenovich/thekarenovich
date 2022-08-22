@@ -1,4 +1,5 @@
-### I'm Erik Karenovich and Welcome!
+### Hey! Eric Karenovich is with you )
+#### I'm a software engineer and an beginner web designer
 ![Header](https://github.com/thekarenovich/thekarenovich/blob/main/asserts/Karenovich.jpg)
 
 #### Languages and Tools 
