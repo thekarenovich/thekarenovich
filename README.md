@@ -6,7 +6,7 @@
 [![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=03AD00)](https://github.com/thekarenovich)
 [![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=FAFF00)](https://github.com/thekarenovich)
 [![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&&logoColor=0038FF)](https://github.com/thekarenovich)
-[![Terminal](https://img.shields.io/badge/Terminal-090909?style=for-the-badge&logo=linux&&logoColor=000000)](https://github.com/thekarenovich)
+[![Terminal](https://img.shields.io/badge/Terminal-090909?style=for-the-badge&logo=linux&&logoColor=orange)](https://github.com/thekarenovich)
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)](https://github.com/thekarenovich)
 [![sqlite](https://img.shields.io/badge/sqlite-090909?style=for-the-badge&logo=sqlite)](https://github.com/thekarenovich)
