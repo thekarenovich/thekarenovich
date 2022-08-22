@@ -1,4 +1,4 @@
-### Hey! Erik Karenovich is with you )
+### Hey! Erik Karenovich is with You )
 #### I'm a software engineer and a beginner web designer
 ![Header](https://github.com/thekarenovich/thekarenovich/blob/main/asserts/Karenovich.jpg)
 
@@ -12,3 +12,8 @@
 ![sqlite](https://img.shields.io/badge/sqlite-090909?style=for-the-badge&logo=sqlite)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&&logoColor=FF0000)
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=figma&logoColor=FA00FF)
+
+### Follow Me
+![VK](https://img.shields.io/badge/VKONTAKTE-090909?style=for-the-badge&logo=vk)
+![Telegram]
+![Instagram]
