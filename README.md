@@ -15,5 +15,5 @@
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/TELEGRAM-090909?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/thekarenovich)
-![VK](https://img.shields.io/badge/VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=0F3BD6)(https://vk.com/thekarenovich)
-![Instagram](https://img.shields.io/badge/INSTAGRAM-090909?style=for-the-badge&logo=instagram&logoColor=D20FD6)(https://instagram.com/thekarenovich)
+[![VK](https://img.shields.io/badge/VKONTAKTE-090909?style=for-the-badge&logo=vk&logoColor=0F3BD6)](https://vk.com/thekarenovich)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-090909?style=for-the-badge&logo=instagram&logoColor=D20FD6)](https://instagram.com/thekarenovich)
