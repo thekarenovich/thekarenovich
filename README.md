@@ -1,6 +1,15 @@
 ![Header](https://github.com/thekarenovich/thekarenovich/blob/main/asserts/111.jpg)
 ## I'm a software engineer and a beginner web designer
 
+
+### About Me
+• Love math and Rubik's cube 
+•	Learn English 📓
+•	Go to the gym 
+•	Write poems
+• Play chess 
+•	Ride a car
+
 ### Languages and Tools 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
