@@ -5,7 +5,7 @@
 ### About Me
 #### • Love math and Rubik's cube 
 
-####•	Learn English 📓
+#### •	Learn English 📓
 
 #### •	Go to the gym 
 
