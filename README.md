@@ -3,17 +3,17 @@
 
 
 ### About Me
-####• Love math and Rubik's cube 
+#### • Love math and Rubik's cube 
 
 ####•	Learn English 📓
 
-####•	Go to the gym 
+#### •	Go to the gym 
 
-####•	Write poems
+#### •	Write poems
 
-####• Play chess 
+#### • Play chess 
 
-####•	Ride a car
+#### •	Ride a car
 
 ### Languages and Tools 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
