@@ -5,7 +5,7 @@
 [![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=03AD00)](https://github.com/thekarenovich)
 [![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=FAFF00)](https://github.com/thekarenovich)
 [![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&&logoColor=0038FF)](https://github.com/thekarenovich)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java)
 [![Terminal](https://img.shields.io/badge/Terminal-090909?style=for-the-badge&logo=linux&&logoColor=orange)](https://github.com/thekarenovich)
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=blue)](https://github.com/thekarenovich)
