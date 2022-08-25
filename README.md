@@ -1,4 +1,4 @@
-![Header](https://github.com/thekarenovich/thekarenovich/blob/main/asserts/111.jpg)
+![Header](https://github.com/thekarenovich/thekarenovich/blob/main/asserts/333.PNG)
 ## I'm a software engineer and a beginner web designer
 
 ### Languages and Tools 
