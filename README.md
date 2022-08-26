@@ -23,3 +23,6 @@ _________________________________________________
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+
+[![Vkontakte](https://img.shields.io/badge/Vkontakte-090909?style=for-the-badge&logo=Vkontakte&&logoColor=orange)]
