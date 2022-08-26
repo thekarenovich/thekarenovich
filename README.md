@@ -25,4 +25,4 @@ _________________________________________________
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 
-![Vkontakte](https://img.shields.io/badge/Vkontakte-2CA5E0?style=for-the-badge&logo=VK&&logoColor=white)
+![Vkontakte](https://img.shields.io/badge/Vkontakte-231877F2?style=for-the-badge&logo=VK&&logoColor=white)
