@@ -23,4 +23,4 @@ _________________________________________________
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 
-![Docker](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/docker-%23E34F26.svg?style=for-the-badge&logo=docker)
