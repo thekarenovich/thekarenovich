@@ -8,7 +8,7 @@ _____
 ![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%2300599C.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%2300599C.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%2300599C.svg?style=for-the-badge&logo=css3&logoColor=white) 
  
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23121011.svg?style=for-the-badge&logo=markdown&logoColor=white)
