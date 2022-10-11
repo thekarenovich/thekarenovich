@@ -13,12 +13,11 @@ _____
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23121011.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23F5792A.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
 ![Figma](https://img.shields.io/badge/figma-%23F05033.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23F05033.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
 
 23323330
 23F7DF1E
