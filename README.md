@@ -20,7 +20,7 @@ _____
 ![HTML5](https://img.shields.io/badge/html5-%23F05033.svg?style=for-the-badge&logo=html5&logoColor=white)
   
      
-________________________________________________________ 
+________________________________________________________  
 ### Username: thekarenovich 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
