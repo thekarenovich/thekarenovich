@@ -1,5 +1,5 @@
 ![Header](https://github.com/thekarenovich/thekarenovich/blob/main/asserts/111.jpg)    
-> I'm a *software engineer* and a beginner *web designer*      
+> I'm a *software engineer* and a beginner *web designer*       
 _____               
 ### Languages and Tools                    
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
