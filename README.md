@@ -26,10 +26,6 @@ ________________________________________________________
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Vkontakte](https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=VK&&logoColor=white) 
-
-```html
-    <input type="text">
-```
    
  
 [comment]: <23ED8B00>
