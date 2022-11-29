@@ -1,7 +1,7 @@
 ![Header](https://github.com/thekarenovich/thekarenovich/blob/main/asserts/111.jpg)    
   
 ### Languages and Tools                      
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-%23092E20?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-%23092E20?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=green)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23092E20.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23092E20.svg?style=for-the-badge&logo=mysql&logoColor=white)
