@@ -12,9 +12,9 @@
 
 ![Markdown](https://img.shields.io/badge/markdown-%23121011.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23F05033.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F05033.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23F05033.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23F05033.svg?style=for-the-badge&logo=java&logoColor=%23323330)
 ![HTML5](https://img.shields.io/badge/html5-%23F05033.svg?style=for-the-badge&logo=html5&logoColor=white)
 
