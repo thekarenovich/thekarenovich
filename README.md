@@ -2,13 +2,13 @@
        
 ### Languages and Tools                        
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23092E20.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%23092E20.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%23092E20.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23092E20.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%2300599C.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%2300599C.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%2300599C.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%2300599C.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/markdown-%23121011.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
