@@ -5,6 +5,7 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23092E20.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%23092E20.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![Postgres](https://img.shields.io/badge/postgres-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%2300599C.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -13,6 +14,7 @@
 
 ![Markdown](https://img.shields.io/badge/markdown-%23121011.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/figma-%23F05033.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23F05033.svg?style=for-the-badge&logo=redis&logoColor=white)
