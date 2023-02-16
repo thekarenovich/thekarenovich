@@ -1,5 +1,5 @@
 ![Header](https://github.com/thekarenovich/thekarenovich/blob/main/asserts/111.jpg)        
-                              
+                               
 ### Languages and Tools                
 ![Spring](https://img.shields.io/badge/spring-%23092E20.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
