@@ -1,6 +1,6 @@
 ![Header](https://github.com/thekarenovich/thekarenovich/blob/main/asserts/111.jpg)        
                                                   
-### Languages and Tools     
+### Languages and Tools      
 ![MySQL](https://img.shields.io/badge/mysql-%23092E20.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23092E20.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%23092E20.svg?style=for-the-badge&logo=spring&logoColor=white)
