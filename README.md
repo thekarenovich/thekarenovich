@@ -26,6 +26,9 @@
 
 
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23F05033.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)-->
+<!-- ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) -->
+<!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
+<!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
 ________________________________________________________    
 ### Username: thekarenovich 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
