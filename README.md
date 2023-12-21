@@ -8,11 +8,11 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%2300599C?style=for-the-badge&logo=Firebase&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%2300599C.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%2300599C.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%2300599C.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%2300599C.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Redis](https://img.shields.io/badge/redis-%23F05033.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -27,7 +27,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%23121011.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-
+<!-- ![Firebase](https://img.shields.io/badge/Firebase-%2300599C?style=for-the-badge&logo=Firebase&logoColor=white)-->
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23F05033.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)-->
 <!-- ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) -->
 <!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
