@@ -21,8 +21,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23F05033.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![Kafka](https://img.shields.io/badge/kafka-%23121011.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%23121011.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Kafka](https://img.shields.io/badge/kafka-%23121011.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23121011.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
