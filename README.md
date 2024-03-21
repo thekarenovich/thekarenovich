@@ -32,8 +32,9 @@
 <!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
 ________________________________________________________    
-### <- My contacts under my pic
- 
+#### I work I apply my experience and skills in development and design, creating high-quality products to make a significant contribution to IT. My superpower is constant self–study, responsibility, and effective teamwork. 
+My contacts are under the picture
+
 [comment]: <23ED8B00>
  
 
