@@ -32,7 +32,7 @@
 <!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
 ________________________________________________________    
-### My contacts under my pic Chat me!
+### <- My contacts under my pic
  
 [comment]: <23ED8B00>
  
