@@ -33,7 +33,7 @@
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) -->
 ________________________________________________________    
 #### I work I apply my experience and skills in development and design, creating high-quality products to make a significant contribution to IT. My superpower is constant self–study, responsibility, and effective teamwork. 
-My contacts are under the picture
+<- My contacts are under the picture
 
 [comment]: <23ED8B00>
  
